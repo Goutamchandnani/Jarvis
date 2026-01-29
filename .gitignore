@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Configuration (Secrets)
+config/api_keys.json
+
+# Data (Inputs & Outputs)
+data/
+
+# System
+.DS_Store
