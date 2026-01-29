@@ -1,0 +1,184 @@
+{
+  "job": {
+    "title": "AI Engineer",
+    "company": "Data Idols",
+    "location": "London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/ai-engineer-at-data-idols-4350711353",
+    "date_posted": "Last 24h",
+    "source": "LinkedIn",
+    "search_role": "AI Engineer",
+    "scraped_at": "2025-12-29T17:35:15.881045"
+  },
+  "job_description": "Senior AI EngineerSalary: £80,000 - £110,000 + Equity optionsLocation: London hybridThe OpportunityWe are working with a rapidly scaling business that is tackling one of the UK's most important challenges, helping organisations unlock the potential of AI while addressing the growing skills gap. Having recently undergone a strategic rebrand, the company is now entering an accelerated growth phase and requires an experienced AI professional to join their head office team. This role is a rare opportunity to combine hands-on AI engineering expertise with client consulting, solution delivery, and technical leadership. You'll play a critical role in shaping solutions for high-profile organisations across multiple sectors, while also contributing to the internal development of new AI-driven products and training programmes.What You'll Be DoingLeading technical input in pre-sales and client-facing conversationsDesigning and delivering AI solutions across a variety of industriesActing as an internal consultant, applying AI to improve business processes and scale operationsSupporting the company's AI training academy, mentoring and guiding diverse talent pipelinesCollaborating closely with leadership, sales, delivery, and academy teams to shape innovative solutionsSkills and ExperienceExperience working in the industry delivering AI or ML solutionsA strong technical foundation with the ability to design and deploy AI systems end-to-endConfidence in client-facing roles, with the ability to communicate technical concepts clearly to non-technical audiencesExperience mentoring or coaching other engineers, and an interest in developing peopleA flexible, entrepreneurial mindset suited to a fast-growing, high-impact environmentIf you are looking for a new challenge, then please submit your CV for initial screening and more details.Senior AI EngineerDesired Skills and ExperiencePython|LLM|GenAI|Machine Learning\n        \n\n\n        \n            Show more\n          \n\n          \n\n\n\n        \n            Show less",
+  "tailored_cv": {
+    "job_analysis": {
+      "match_score": 90,
+      "key_requirements": [
+        "Python",
+        "LLM",
+        "GenAI",
+        "Machine Learning",
+        "Design and deploy AI systems end-to-end",
+        "Client-facing (pre-sales, communicate technical concepts)",
+        "Mentoring or coaching engineers",
+        "Technical leadership",
+        "Entrepreneurial mindset",
+        "Deliver AI/ML solutions in industry"
+      ],
+      "selected_projects_reasoning": "Selected 'DocuCare AI - AI-Powered Medical Document Management System' because it directly addresses the LLM, GenAI, and end-to-end AI system deployment requirements using advanced models like Google Gemini and Anthropic Claude, demonstrating practical application in a complex domain. Its focus on RAG and vector embeddings aligns perfectly with modern AI engineering. 'FlowerGen | Text-to-Image Generation System' was chosen for its explicit demonstration of Generative AI (Stable Diffusion, LoRA) and Python proficiency, directly matching key technical skills for a GenAI role. Both projects collectively showcase strong hands-on experience in building and optimizing AI/ML solutions."
+    },
+    "tailored_cv": {
+      "personal_info": {
+        "name": "Goutam Chandnani",
+        "email": "gautamchandnani4u@gmail.com",
+        "phone": "+44 7344 329 717",
+        "location": "Birmingham, UK",
+        "linkedin": "linkedin.com/in/goutamchandnani1",
+        "github": "github.com/Gautam-C (placeholder - ensure this is updated)"
+      },
+      "professional_summary": "Aspiring Senior AI Engineer with a strong foundation in Machine Learning, Generative AI (GenAI), and Large Language Models (LLMs), currently pursuing an MSc in Artificial Intelligence. Proven ability to design and deploy end-to-end AI solutions using Python, Stable Diffusion, LoRA, and leading LLM platforms. Skilled in translating complex business challenges into scalable technical architectures, with emerging capabilities in client-facing communication and technical leadership. Passionate about leveraging AI to drive innovation and committed to continuous learning and mentorship in fast-paced, high-impact environments.",
+      "skills": {
+        "Programming Languages": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Java"
+        ],
+        "AI/ML & Data Science": [
+          "Generative AI (GenAI)",
+          "Large Language Models (LLMs)",
+          "Machine Learning",
+          "Stable Diffusion",
+          "LoRA",
+          "Retrieval-Augmented Generation (RAG)",
+          "Vector Embeddings",
+          "Google Gemini",
+          "Anthropic Claude",
+          "Matplotlib",
+          "Seaborn",
+          "Power BI"
+        ],
+        "Frameworks & Libraries": [
+          "Node.js",
+          "Express.js",
+          "React.js",
+          "Next.js",
+          "Angular.js",
+          "Flask",
+          "Socket.IO"
+        ],
+        "Databases & Cloud": [
+          "MongoDB",
+          "MySQL",
+          "PostgreSQL",
+          "Supabase",
+          "Oracle Cloud Infrastructure (OCI)"
+        ],
+        "Tools & Concepts": [
+          "VS Code",
+          "Jupyter Notebook",
+          "Git & Github",
+          "SDLC",
+          "Agile",
+          "DevOps",
+          "API Development"
+        ]
+      },
+      "education": {
+        "degree": "Master of Science in Artificial Intelligence",
+        "university": "Aston University, Birmingham, UK",
+        "graduation": "Expected 2026",
+        "other_degrees": [
+          {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "university": "Vivekanand Education Society’s Institute of Technology, Mumbai, India",
+            "graduation": "2025",
+            "grade": "2:1 UK Equivalent, CGPA 7.45/10"
+          }
+        ]
+      },
+      "experience": [
+        {
+          "title": "Salesforce Administrator Intern",
+          "company": "Neevas",
+          "location": "Remote",
+          "date": "August 2023 - April 2024",
+          "description": "Administered and automated Salesforce CRM functionalities to enhance operational efficiency.",
+          "achievements": [
+            "Automated Salesforce workflows and validation rules, significantly improving CRM data accuracy by 20%.",
+            "Designed and implemented travel management modules with intuitive dashboards, enhancing reporting and visibility for stakeholders.",
+            "Collaborated cross-functionally with business teams to translate complex requirements into scalable and secure Salesforce configurations."
+          ]
+        },
+        {
+          "title": "Technology Foundations Virtual Experience",
+          "company": "Accenture UK",
+          "location": "Virtual",
+          "date": "October 2025",
+          "description": "Participated in an end-to-end Agile SDLC simulation, focusing on DevOps and automation practices.",
+          "achievements": [
+            "Successfully completed an end-to-end Agile SDLC simulation, gaining practical experience with DevOps and automation tools.",
+            "Debugged and optimised Python scripts, resulting in a 30% improvement in runtime efficiency and resource utilization.",
+            "Presented complex algorithmic solutions using detailed flow diagrams, effectively enhancing technical communication with diverse audiences."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "DocuCare AI - AI-Powered Medical Document Management System",
+          "date": "Ongoing (or provide actual date)",
+          "technologies": [
+            "Next.js 14",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "Supabase",
+            "Google Gemini 1.5 Flash",
+            "Anthropic Claude 3.5 Sonnet",
+            "Vector Embeddings",
+            "RAG"
+          ],
+          "description": "Developed a full-stack, AI-powered web application for intelligent medical document management and analysis.",
+          "achievements": [
+            "Re-architected backend infrastructure to a 100% free-tier compatible stack using Supabase, optimizing resource management and scalability.",
+            "Developed a server-side AI pipeline leveraging Google Gemini 1.5 Flash for advanced OCR, enabling precise medical data extraction and summarization.",
+            "Implemented an intelligent Retrieval-Augmented Generation (RAG) chat system using vector embeddings, allowing users to query health records efficiently and accurately.",
+            "Built a robust frontend with Next.js 14 App Router, Server Actions, and secure route handlers, ensuring high performance and data integrity."
+          ]
+        },
+        {
+          "title": "FlowerGen | Text-to-Image Generation System",
+          "date": "April 2024",
+          "technologies": [
+            "Generative AI",
+            "Stable Diffusion",
+            "LoRA",
+            "Python",
+            "PyTorch (implied)"
+          ],
+          "description": "Engineered a generative AI model for realistic text-to-image synthesis using advanced deep learning techniques.",
+          "achievements": [
+            "Built a sophisticated generative AI model capable of producing high-quality images from text prompts, leveraging Stable Diffusion and LoRA architectures.",
+            "Optimised GPU training on consumer hardware (RTX 3050), significantly reducing memory usage by 25% through efficient model quantization and data loading strategies.",
+            "Integrated real-time data pipelines to enhance the interactive user experience, allowing for rapid iteration and model refinement during generation processes."
+          ]
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Career Essentials in Generative AI",
+          "issuer": "Microsoft/LinkedIn"
+        },
+        {
+          "name": "OCI AI Foundations Associate",
+          "issuer": "Oracle"
+        },
+        {
+          "name": "Accenture Technology Foundations",
+          "issuer": "Forage"
+        }
+      ]
+    }
+  },
+  "generated_at": "2025-12-29T17:36:54.395383"
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "title": "DocuCare AI - AI-Powered Medical Document Management System",
+        "technologies": [
+            "Next.js 14",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "Supabase",
+            "Google Gemini 1.5 Flash",
+            "Anthropic Claude 3.5 Sonnet"
+        ],
+        "overview": "A modern web application designed to streamline the management and analysis of medical documents. It leverages AI for optical character recognition (OCR) and intelligent data extraction, providing users with summarized insights and an interactive chat interface.",
+        "key_contributions": [
+            "Re-architected backend infrastructure to a 100% free-tier compatible stack using Supabase, replacing Google Cloud Vision/Storage.",
+            "Developed a server-side AI pipeline using Google Gemini 1.5 Flash for OCR and medical data extraction.",
+            "Implemented an intelligent RAG (Retrieval-Augmented Generation) chat system using vector embeddings for querying health records.",
+            "Built a robust frontend with Next.js 14 App Router, Server Actions, and specific route handlers for secure data fetching."
+        ]
+    },
+    {
+        "title": "KanSync - Real-time Collaborative Task Board",
+        "technologies": [
+            "Angular 16+",
+            "TypeScript",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Socket.IO",
+            "Netlify",
+            "Render"
+        ],
+        "overview": "A full-stack, real-time collaborative task management application featuring Kanban-style boards, live updates, and secure authentication.",
+        "key_contributions": [
+            "Implemented real-time bi-directional communication using Socket.IO and WebSockets for instant task updates across clients.",
+            "Solved complex CORS and Content Security Policy (CSP) challenges for secure cross-domain resource sharing.",
+            "Architected a monorepo structure for maintainable frontend/backend code separation.",
+            "Built a custom WebSocketService in Angular using RxJS to manage subscriptions and state."
+        ]
+    },
+    {
+        "title": "Smart Student Job Agent Platform (Unihustle)",
+        "technologies": [
+            "React 19",
+            "Vite",
+            "Tailwind CSS v4",
+            "Python",
+            "Flask",
+            "SQLAlchemy",
+            "PostgreSQL",
+            "Celery",
+            "Redis"
+        ],
+        "overview": "A comprehensive job aggregation and matching platform tailored for students, automating local search based on availability and skills.",
+        "key_contributions": [
+            "Architected a specific matching engine using weighted vectors for location, schedule, and skill overlapping.",
+            "Engineered asynchronous background worker pipelines with Celery and Redis to scrape external job boards without performance lag.",
+            "Designed a normalized PostgreSQL schema with SQLAlchemy ORM for complex relationship modeling.",
+            "Created a high-performance reactive frontend using React 19 and React Hook Form."
+        ]
+    }
+]

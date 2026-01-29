@@ -1,0 +1,191 @@
+{
+  "job": {
+    "title": "Graduate software engineer",
+    "company": "Bending Spoons",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4329515399",
+    "date_posted": "Last 24h",
+    "source": "LinkedIn",
+    "search_role": "AI Engineer",
+    "scraped_at": "2025-12-29T17:35:17.971592"
+  },
+  "job_description": "At Bending Spoons, we’re striving to build one of the all-time great companies. A company that serves a huge number of customers. A company where team members grow to their full potential. A company that functions at unparalleled levels of effectiveness and efficiency. A company that creates value for shareowners at an extraordinary rate. And a company that does so while adhering to high ethical standards.To achieve this objective, we execute the following strategy: We acquire a digital business with untapped potential and make it as successful as we can by leveraging our platform—which comprises our expertise, technologies, data, brand, talents, and company culture. Then, we invest the proceeds into making our platform more powerful, and into acquiring new businesses. Thus, our strategy sees us combine an investor’s attention to capital allocation with the hands-on approach of an operator.For a talented, driven, and collaborative individual, working at Bending Spoons is an opportunity to learn, make an impact, and progress their career at an exceptionally high rate. That’s our promise to such a candidate.A few examples of your responsibilitiesMaster your toolkit. By working across diverse tech stacks, you’ll refine your ability to choose the right tools for every challenge. From monolithic to microservices architectures, gRPC to REST APIs, Kubernetes to Docker, Python to Rust—you’ll show that true expertise isn’t about using the trendiest technologies, but about understanding their purpose to unleash their full potential.Build stuff that matters. Regardless of your seniority, you’ll enjoy plenty of autonomy and take full ownership of your work, from ideation to execution. You’ll have the unique opportunity to build software from the ground up and witness firsthand how your code evolves into a product used at scale.Simplify relentlessly. Is every component essential? Do we need this process? As a Bending Spoons engineer, your mission is to turn complexity into simplicity. Whether optimizing CI/CD pipelines, writing maintainable code, or crafting minimalist architectures, your drive to simplify will power scalable, future-proof solutions.What we look forReasoning ability. Given the necessary knowledge, you can solve complex problems. You think from first principles, and structure your ideas sharply. You resist the influence of biases. You identify and take care of the details that matter.Drive. You’re extremely ambitious in everything you do—and your initiative, effort, and tenacity match the intensity of your ambition. You feel deeply responsible for your work. You hold yourself to a high—and rising—bar.Team spirit. You give generously and without the expectation of receiving in return. You support the best idea, not your idea. You're always happy to get your hands dirty to help your team. You’re reliable, honest, and transparent.Proficiency in English. You read, write, and speak proficiently in English.What we offerIncredibly talented, entrepreneurial teams. You’ll work in small, result-oriented, autonomous teams alongside some of the brightest people in your field.An exceptional opportunity for growth. We go to great lengths to hire individuals of outstanding potential—then, our priority is to put them in the ideal position to thrive. Spooners in their 20s lead products worth hundreds of millions of dollars. And if you’ve got what it takes, you’ll soon be playing an essential role in major projects, too.Competitive pay and access to equity in the company. Typically, we offer individuals at the start of their career an annual salary of £85,797 in London and €66,065 elsewhere in Europe. For a candidate that we assess as possessing considerable relevant experience, the salary on offer tends to be between £112,189 and £250,512 in London, and €107,837 and €188,848 elsewhere in Europe. Compensation varies by location and expected impact, and grows rapidly as you gain experience and translate it into greater contributions. For individuals who demonstrate exceptional capability, we may offer compensation that extends beyond the usual ranges to reflect their higher expected impact. If you're offered a permanent contract, you'll also be able receive some of your pay in company equity at a discounted price, thus participating in the value creation we achieve together. If relocating to Italy, you may enjoy a 50% tax cut.All. These. Benefits. Flexible hours, remote working, unlimited backing for learning and training, top-of-the-market health insurance, a rich relocation package, generous parental support, and a yearly retreat to a stunning location. We help each Spooner set up the conditions to do their best work.Commitment & contractPermanent or fixed-term. Full-time.LocationMilan (Italy), London (UK), Madrid (Spain), Warsaw (Poland) or remote in selected countries.The selection processIf you pass our screening, we’ll ask you to take on a few tests designed to assess how you approach unfamiliar problems. They’re challenging and may take several hours to complete. If you’re successful with those, we’ll invite you to a series of interviews.We set the bar high and won't extend an offer until we're convinced we've found the right candidate. This is why a job may stay open for months or be reposted several times.Studies suggest that women tend not to apply for a job if their CV isn’t a perfect fit. Here, talent takes precedence over experience. So if you like the role and think you could be awesome at it in time, go ahead and apply.Bending Spoons is an equal opportunity and affirmative action employer. We consider for employment any applicant and provide reasonable accommodations for an individual with disabilities—just let us know through this form.Before you applyIf you’ve applied before but didn't receive an offer, we recommend waiting at least one year before applying again.Bending Spoons is a demanding environment. We’re extremely ambitious and we hold ourselves—and one another—to a high standard. While this tends to lead to extraordinary learning, achievement, and career growth, it also requires significant commitment.To help you ramp up quickly and set yourself up for success, we recommend spending your first few months working from our Milan office, regardless of your long-term work location. It’s the best way to rapidly absorb our company culture and build trust with your new teammates. We’ll support you with generous travel and accommodation assistance. After that, you’re welcome to work from our offices in Milan or London, or remotely from approved countries—depending on what we agree at the offer stage.If the role speaks to you and you’re excited to give your best, we’d love to hear from you. Apply now—we can’t wait to meet you.\n        \n\n\n        \n            Show more\n          \n\n          \n\n\n\n        \n            Show less",
+  "tailored_cv": {
+    "job_analysis": {
+      "match_score": 88,
+      "key_requirements": [
+        "Proficiency in Python, JavaScript, Java (or similar object-oriented languages)",
+        "Strong understanding of diverse tech stacks (monolithic to microservices, gRPC to REST, Kubernetes to Docker concepts)",
+        "Ability to build scalable, maintainable, and efficient software solutions from the ground up",
+        "Experience with full ownership of work, from ideation to execution",
+        "Focus on simplifying complexity, optimizing processes (e.g., CI/CD), and crafting minimalist architectures",
+        "Demonstrated reasoning ability, drive, and team spirit",
+        "Familiarity with Agile SDLC, Version Control (Git)"
+      ],
+      "selected_projects_reasoning": "Selected 'DocuCare AI - AI-Powered Medical Document Management System' and 'Smart Student Job Agent Platform (Unihustle)' because they collectively showcase a strong command of modern full-stack development (Next.js, React, Python, Flask), robust backend engineering (Supabase, PostgreSQL, Celery, Redis), and advanced architectural thinking (re-architecture, asynchronous pipelines, data modeling, RAG systems). These projects directly align with the job's emphasis on building scalable, maintainable, and efficient solutions across diverse tech stacks, demonstrating ownership, and simplifying complex problems. DocuCare also highlights an ability to leverage advanced technologies (Generative AI) within a well-architected system, addressing the 'master your toolkit' requirement."
+    },
+    "tailored_cv": {
+      "personal_info": {
+        "name": "Goutam Chandnani",
+        "email": "gautamchandnani4u@gmail.com",
+        "phone": "+44 7344 329 717",
+        "location": "Birmingham, UK",
+        "linkedin": "linkedin.com/in/goutamchandnani1",
+        "github": ""
+      },
+      "professional_summary": "Highly driven Graduate Software Engineer with a Master's in Artificial Intelligence, combining a strong foundation in full-stack development (Python, JavaScript, React/Next.js, Node.js) with a passion for designing scalable, maintainable, and efficient software solutions. Proven ability to take full ownership of projects from ideation to execution, simplifying complex problems through clean architecture and optimized code. Eager to apply a diverse toolkit and contribute to building impactful products at scale, aligning with Bending Spoons' commitment to effectiveness and continuous learning.",
+      "skills": {
+        "Programming Languages": [
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Java"
+        ],
+        "Web Development & Frameworks": [
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "Angular.js",
+          "HTML",
+          "CSS",
+          "TailwindCSS"
+        ],
+        "Databases & Tools": [
+          "PostgreSQL",
+          "MongoDB",
+          "MySQL",
+          "Supabase",
+          "Redis",
+          "Docker",
+          "VS Code",
+          "Jupyter Notebook",
+          "Git & GitHub"
+        ],
+        "Architectural Concepts": [
+          "System Design",
+          "Microservices (concepts)",
+          "RESTful APIs",
+          "Scalability",
+          "Distributed Systems (concepts)",
+          "Database Design",
+          "CI/CD (concepts)"
+        ],
+        "AI/ML & Data": [
+          "Generative AI",
+          "Stable Diffusion",
+          "LoRA",
+          "Google Gemini",
+          "Claude",
+          "Vector Embeddings",
+          "Power BI",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "Methodologies": [
+          "Agile",
+          "SDLC"
+        ]
+      },
+      "education": {
+        "degree": "Master of Science in Artificial Intelligence",
+        "university": "Aston University, Birmingham, UK",
+        "graduation": "Expected 2026",
+        "other_degrees": [
+          {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "university": "Vivekanand Education Society’s Institute of Technology, Mumbai, India",
+            "graduation": "2025",
+            "grade": "2:1 UK Equivalent, CGPA 7.45/10"
+          }
+        ]
+      },
+      "experience": [
+        {
+          "title": "Salesforce Administrator Intern",
+          "company": "Neevas",
+          "location": "Remote",
+          "date": "August 2023 - April 2024",
+          "description": "Administered and automated Salesforce workflows to enhance CRM efficiency.",
+          "achievements": [
+            "Automated Salesforce workflows and validation rules, improving CRM accuracy and operational efficiency by 20%.",
+            "Designed and implemented custom travel management modules with dashboards for improved data reporting and visibility.",
+            "Collaborated cross-functionally to translate complex business requirements into scalable Salesforce configurations and solutions."
+          ]
+        },
+        {
+          "title": "Technology Foundations Virtual Experience",
+          "company": "Accenture UK",
+          "location": "Virtual",
+          "date": "October 2025",
+          "description": "Simulated an end-to-end Agile SDLC project with a focus on Python and DevOps.",
+          "achievements": [
+            "Successfully completed an end-to-end Agile SDLC simulation, leveraging DevOps and automation tools.",
+            "Debugged and optimized Python scripts, improving runtime efficiency and performance by 30%.",
+            "Presented complex algorithmic solutions using clear flow diagrams, enhancing technical communication and understanding."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "DocuCare AI - AI-Powered Medical Document Management System",
+          "date": "Ongoing",
+          "technologies": [
+            "Next.js 14",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "Supabase",
+            "Google Gemini 1.5 Flash",
+            "Anthropic Claude 3.5 Sonnet",
+            "Vector Embeddings"
+          ],
+          "description": "Developed a modern web application for streamlined medical document management, leveraging AI for intelligent data extraction and summarization.",
+          "achievements": [
+            "Re-architected the backend infrastructure to a 100% free-tier compatible Supabase stack, demonstrating cost-efficiency and adaptability in system design.",
+            "Engineered a server-side AI pipeline utilizing Google Gemini 1.5 Flash for advanced optical character recognition (OCR) and medical data extraction.",
+            "Implemented an intelligent Retrieval-Augmented Generation (RAG) chat system using vector embeddings, enabling natural language querying of health records.",
+            "Built a robust and scalable frontend with Next.js 14 App Router, Server Actions, and secure route handlers, ensuring efficient data fetching and user experience."
+          ]
+        },
+        {
+          "title": "Smart Student Job Agent Platform (Unihustle)",
+          "date": "Ongoing",
+          "technologies": [
+            "React 19",
+            "Vite",
+            "Tailwind CSS v4",
+            "Python",
+            "Flask",
+            "SQLAlchemy",
+            "PostgreSQL",
+            "Celery",
+            "Redis"
+          ],
+          "description": "Architected and built a comprehensive job aggregation and matching platform for students, automating local job search based on availability and skills.",
+          "achievements": [
+            "Designed a sophisticated matching engine leveraging weighted vectors to accurately pair students with local jobs based on location, schedule, and skill overlaps.",
+            "Engineered asynchronous background worker pipelines using Celery and Redis to efficiently scrape external job boards without impacting platform performance.",
+            "Developed a normalized PostgreSQL schema with SQLAlchemy ORM, ensuring robust data integrity and complex relationship modeling for a scalable backend.",
+            "Created a high-performance, reactive frontend with React 19 and React Hook Form, focusing on user experience and efficient data management."
+          ]
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Career Essentials in Generative AI",
+          "issuer": "Microsoft/LinkedIn"
+        },
+        {
+          "name": "OCI AI Foundations Associate",
+          "issuer": "Oracle"
+        },
+        {
+          "name": "Accenture Technology Foundations",
+          "issuer": "Forage"
+        }
+      ]
+    }
+  },
+  "generated_at": "2025-12-29T17:37:41.563262"
+}

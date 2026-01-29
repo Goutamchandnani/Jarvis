@@ -1,0 +1,203 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "company": "TechNative Digital",
+    "location": "Greater Brighton and Hove Area",
+    "url": "https://uk.linkedin.com/jobs/view/software-engineer-intern-at-technative-digital-4345937138",
+    "source": "LinkedIn",
+    "search_role": "AI Intern",
+    "priority": true,
+    "date_posted": "Recent",
+    "scraped_at": "2025-12-29T17:08:18.279301"
+  },
+  "job_description": "Software Developer InternLocation: Hybrid - Online / BrightonType: Training-to-Employment ProgrammeCost: FREE - for West Sussex and Brighton and Hove residents onlyNext Start Date: 7 January 2026Note: Please DO NOT apply if you do not live in West Sussex or Brighton. You will bot be eligible for funding and we will not be able to process your applicstion. About the OpportunityAre you a West Sussex or Brighton & Hove based computer science graduate, self-taught coder, or bootcamp completer who still can’t land that first job in tech?TechNative Digital is offering a fully funded, intensive, 12-week Software Development Bootcamp designed specifically for aspiring developers who can already code, but need real-world experience to gain industry level skills and a polished portfolio, and structured careers support to break into the industry.This is not an entry-level course — it’s a finishing school for developers who are “stuck at the start”.By joining, you will be enrolled as a Software Developer Intern, working on real projects, coached by industry developers, and guaranteed at least one job interview with a partnered local employer.This opportunity is fully funded by the Department for Education if you live in West Sussex or Brighton and Hove.Who This Is ForWe are looking for people who meet one or more of the following:Computer Science graduates who haven’t yet secured a first developer roleCoding bootcamp graduates missing the last piece of confidence or experienceSelf-taught developers with solid GitHub projectsCareer changers with a good foundation in HTML, CSS, and JavaScriptDevelopers who have been actively applying for junior roles without successYou must already know the basics of web development. This programme takes you from “can code” → ready for paid work.What You’ll LearnOur curriculum is co-designed with real employers to give you the skills needed for work.You’ll cover:Core Technical SkillsHTML, CSS, accessibility, responsive web designJavaScript (ES6+), DOM manipulation, async patternsIntro to React (components, hooks)Backend fundamentals using Node.js & ExpressWorking with APIsDatabases (PostgreSQL basics)Git, GitHub, branching, pull requestsAgile workflows & real project deliveryProfessional & Workplace SkillsWriting clean, industry-standard codeWorking in dev teams, sprints, and stand-upsPair programming & code reviewsDebugging and problem solvingCareer & Employability SkillsYou also receive full careers coaching from Software recruitment guru David Robers from Crushing Digital (https://crushing.digital/), including:LinkedIn optimisationCV & portfolio buildingMock interviews with real employersGuidance on applications and tech testsAccess to real junior developer vacancies through our employer networkWhat You’ll Be DoingAs a Software Developer Intern on the Bootcamp, you will:Build multiple real-world projects for your portfolioContribute to a team capstone projectWork with industry tutors from companies such as DabApps, Certn, and Shopify partnersAttend live sessions twice per week plus project timeReceive support from a Learning Support Assistant and senior tutorsThis hands-on experience follows the same rhythms as a real dev role: sprints, retros, ticket systems, stand-ups, pull requests, and feedback cycles.Programme StructureDuration:</strong> 12 weekFormat: Hybrid, live sessionsDelivery model: Wednesday online, Thursdays in personExtra support: Slack community, 1:1 check-ins, learning supportStart Date: 7 January 2026EligibilityThis programme is fully funded if you:Live in West Sussex or Brighton and HoveAre aged 19+Have the legal right to work in the UKCan commit to the 12-week scheduleAlready have basic coding skills (HTML, CSS, JavaScript)To ApplyLInk to our simple Stage 1 application form and we will send full details of the programme: https://share-eu1.hsforms.com/1dVFH9CwcSI2VONRBB4T6lwf0y5yFor more information the Tech Finishing School and our range of bootcamp programmes link to https://technativedigital.com/#/course/software-development\n\n\n\n        \n            Show more\n          \n\n          \n\n\n\n        \n            Show less",
+  "tailored_cv": {
+    "job_analysis": {
+      "match_score": 88,
+      "key_requirements": [
+        "HTML, CSS, JavaScript (ES6+)",
+        "React (components, hooks)",
+        "Node.js & Express.js for backend fundamentals & APIs",
+        "PostgreSQL basics",
+        "Git, GitHub, branching, pull requests",
+        "Agile workflows & real project delivery",
+        "Writing clean, industry-standard code",
+        "Working in dev teams, sprints, stand-ups, pair programming, code reviews",
+        "Debugging and problem solving",
+        "Portfolio of real-world projects"
+      ],
+      "selected_projects_reasoning": "The 'Software Developer Intern' role at TechNative Digital is a 'finishing school' for developers with existing coding skills in web development, focusing on React, Node.js, Express.js, and PostgreSQL, along with Agile methodologies and team collaboration. The selected projects directly address these requirements:\n1.  'Smart Student Job Agent Platform (Unihustle)': This project is a perfect match as it extensively uses React and Tailwind CSS for the frontend, and critically, a Python/Flask backend with PostgreSQL for the database – a specific skill mentioned in the job description. Its features like the matching engine and asynchronous worker pipelines demonstrate robust backend engineering and complex problem-solving.\n2.  'DocuCare AI - AI-Powered Medical Document Management System': This project showcases advanced frontend development with Next.js (built on React), TypeScript, and Tailwind CSS, all highly relevant modern web technologies. It also involves backend architecture (Supabase), secure data fetching, and API integration, proving comprehensive web application development skills crucial for the 'real-world experience' aspect, despite its AI component.\n3.  'KanSync | Real-time Collaborative Task Platform': This project directly demonstrates strong proficiency in Node.js and Express.js for backend development, along with MongoDB for database management and Socket.IO for real-time communication. By emphasizing its achievements in real-time features, secure authentication, and scalable architecture, it directly addresses the JD's need for Node.js and Express.js fundamentals. It also highlights solving complex web development challenges like CORS, which is valuable for practical experience."
+    },
+    "tailored_cv": {
+      "personal_info": {
+        "name": "Goutam Chandnani",
+        "email": "gautamchandnani4u@gmail.com",
+        "phone": "+44 7344 329 717",
+        "location": "Birmingham, UK",
+        "linkedin": "linkedin.com/in/goutamchandnani1",
+        "github": ""
+      },
+      "professional_summary": "Proactive Software Developer with a solid foundation in modern web technologies, including **React, Next.js, Node.js, Express.js**, and **PostgreSQL**. Proven ability to build full-stack applications, implement secure authentication, manage real-time data flows, and solve complex development challenges. Eager to apply and expand expertise in Agile environments, contribute to real-world projects, and collaborate effectively within a development team to deliver high-quality, scalable solutions.",
+      "skills": {
+        "Web Technologies": [
+          "JavaScript (ES6+)",
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "HTML",
+          "CSS",
+          "TailwindCSS",
+          "Angular.js",
+          "TypeScript",
+          "Socket.IO",
+          "RESTful APIs"
+        ],
+        "Databases": [
+          "PostgreSQL",
+          "MongoDB",
+          "MySQL",
+          "Supabase"
+        ],
+        "Programming Languages": [
+          "Python",
+          "Java"
+        ],
+        "Version Control & Methodologies": [
+          "Git",
+          "GitHub",
+          "Agile",
+          "SDLC",
+          "DevOps Principles",
+          "Problem Solving",
+          "Debugging",
+          "Pair Programming",
+          "Code Reviews"
+        ],
+        "Tools": [
+          "VS Code",
+          "Jupyter Notebook",
+          "Figma"
+        ]
+      },
+      "education": {
+        "degree": "Master of Science in Artificial Intelligence",
+        "university": "Aston University, Birmingham, UK",
+        "graduation": "Expected 2026",
+        "other_degrees": [
+          {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "university": "Vivekanand Education Society’s Institute of Technology, Mumbai, India",
+            "graduation": "2023",
+            "grade": "2:1 UK Equivalent, CGPA 7.45/10"
+          }
+        ]
+      },
+      "experience": [
+        {
+          "title": "Salesforce Administrator Intern",
+          "company": "Neevas",
+          "location": "Remote",
+          "date": "August 2023 - April 2024",
+          "description": "Salesforce administration and automation.",
+          "achievements": [
+            "Engineered automation solutions for CRM workflows and validation rules, enhancing data accuracy and operational efficiency.",
+            "Designed travel management modules with dashboards for better reporting and visibility, improving data-driven decision making.",
+            "Collaborated cross-functionally to convert complex business requirements into scalable technical configurations."
+          ]
+        },
+        {
+          "title": "Technology Foundations Virtual Experience",
+          "company": "Accenture UK",
+          "location": "Virtual",
+          "date": "October 2025",
+          "description": "End-to-end Agile SDLC simulation.",
+          "achievements": [
+            "Successfully completed an end-to-end Agile SDLC simulation, gaining practical experience with DevOps principles and automation tools.",
+            "Debugged and optimised Python scripts, improving runtime efficiency by 30% through targeted code refactoring.",
+            "Presented algorithmic solutions with clear flow diagrams, significantly improving technical communication and stakeholder understanding."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Smart Student Job Agent Platform (Unihustle)",
+          "date": "Late 2024",
+          "technologies": [
+            "React 19",
+            "Vite",
+            "Tailwind CSS v4",
+            "Python",
+            "Flask",
+            "SQLAlchemy",
+            "PostgreSQL",
+            "Celery",
+            "Redis"
+          ],
+          "description": "A comprehensive job aggregation and matching platform tailored for students, automating local search based on availability and skills.",
+          "achievements": [
+            "Architected a specific matching engine using weighted vectors for location, schedule, and skill overlapping, improving job relevance for students by 25%.",
+            "Engineered asynchronous background worker pipelines with Celery and Redis to efficiently scrape external job boards without impacting user experience.",
+            "Designed and implemented a normalized PostgreSQL schema with SQLAlchemy ORM for robust data modeling and efficient querying of complex relationships.",
+            "Developed a high-performance, reactive frontend using React 19 and Vite, leveraging React Hook Form for enhanced user interaction and data validation."
+          ]
+        },
+        {
+          "title": "DocuCare AI - AI-Powered Medical Document Management System",
+          "date": "Early 2025",
+          "technologies": [
+            "Next.js 14",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "Supabase",
+            "Google Gemini 1.5 Flash",
+            "Anthropic Claude 3.5 Sonnet"
+          ],
+          "description": "A modern web application designed to streamline the management and analysis of medical documents, leveraging AI for OCR and intelligent data extraction.",
+          "achievements": [
+            "Re-architected the backend infrastructure to a 100% free-tier compatible stack using Supabase, replacing costly Google Cloud Vision/Storage services.",
+            "Developed a server-side AI pipeline utilizing Google Gemini 1.5 Flash for advanced optical character recognition (OCR) and medical data extraction.",
+            "Implemented an intelligent RAG (Retrieval-Augmented Generation) chat system using vector embeddings for efficient and accurate querying of health records.",
+            "Built a robust frontend using Next.js 14 App Router and Server Actions, ensuring secure data fetching and a dynamic, responsive user experience."
+          ]
+        },
+        {
+          "title": "KanSync | Real-time Collaborative Task Platform",
+          "date": "September 2025",
+          "technologies": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Angular",
+            "Next.js",
+            "Socket.IO"
+          ],
+          "description": "Developed a full-stack web application enabling real-time collaborative task management with Kanban-style boards and live updates.",
+          "achievements": [
+            "Implemented real-time bi-directional communication using Socket.IO and WebSockets for instant task updates across multiple clients.",
+            "Developed a secure backend API with Node.js and Express.js, integrating JWT authentication and role-based access control.",
+            "Architected a scalable full-stack application, ensuring maintainability and robust performance for collaborative features.",
+            "Solved complex CORS and Content Security Policy (CSP) challenges, ensuring secure cross-domain resource sharing and data integrity.",
+            "Designed and managed MongoDB database schema for efficient storage and retrieval of task and user data."
+          ]
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Career Essentials in Generative AI",
+          "issuer": "Microsoft/LinkedIn"
+        },
+        {
+          "name": "OCI AI Foundations Associate",
+          "issuer": "Oracle"
+        },
+        {
+          "name": "Accenture Technology Foundations",
+          "issuer": "Forage"
+        }
+      ]
+    }
+  },
+  "generated_at": "2025-12-29T17:10:00.559166"
+}

@@ -1,0 +1,189 @@
+{
+  "job": {
+    "title": "AI Training, Mathematics",
+    "company": "DataAnnotation",
+    "location": "United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/ai-training-mathematics-at-dataannotation-4309686843",
+    "date_posted": "Last 24h",
+    "source": "LinkedIn",
+    "search_role": "AI Intern",
+    "scraped_at": "2025-12-29T17:21:29.551301"
+  },
+  "job_description": "We are looking for an advanced mathematician with an advanced degree to join our team to train AI models. You will measure the progress of these AI chatbots, evaluate their logic, and solve problems to improve the quality of each model.In this role you will need to hold an expert level of mathematical reasoning. Other related fields include, but are not limited to: Applied Math and/or Computer Science.BenefitsThis is a full-time or part-time REMOTE positionYou’ll be able to choose which projects you want to work onYou can work on your own scheduleProjects are paid hourly starting at $40+ USD per hour, with bonuses on high-quality and high-volume workResponsibilitiesGive AI chatbots diverse and complex mathematics problems and evaluate their outputsEvaluate the quality produced by AI models for correctness and performanceQualificationsFluency in English (native or bilingual level)Detail-orientedProficient in arithmetic, algebra, geometry, calculus, probability, statistics, and inductive/ deductive reasoningA current, in progress, or completed Master's and/or PhD is preferred but not requiredNotesPayment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD. Only applicants in the United Kingdom will be considered for this role. This is an independent contract position.#math\n        \n\n\n        \n            Show more\n          \n\n          \n\n\n\n        \n            Show less",
+  "tailored_cv": {
+    "job_analysis": {
+      "match_score": 90,
+      "key_requirements": [
+        "Advanced mathematician with an advanced degree (Master's preferred) to train AI models.",
+        "Evaluate AI chatbot logic and progress, solve problems to improve quality.",
+        "Expert level of mathematical reasoning (arithmetic, algebra, geometry, calculus, probability, statistics, inductive/deductive reasoning).",
+        "Related fields: Applied Math and/or Computer Science.",
+        "Proficient in Python (implied for AI training)."
+      ],
+      "selected_projects_reasoning": "Selected 'DocuCare AI - AI-Powered Medical Document Management System' because it directly demonstrates experience with leveraging and interacting with advanced AI models (Google Gemini, Anthropic Claude), implementing RAG systems, and intelligent data extraction, aligning perfectly with the job's focus on evaluating AI logic and improving model quality. 'FlowerGen | Text-to-Image Generation System' was chosen for its strong relevance to building and optimizing generative AI models, showcasing understanding of AI model development, training optimization, and problem-solving within AI systems, which is critical for AI training roles."
+    },
+    "tailored_cv": {
+      "personal_info": {
+        "name": "Goutam Chandnani",
+        "email": "gautamchandnani4u@gmail.com",
+        "phone": "+44 7344 329 717",
+        "location": "Birmingham, UK",
+        "linkedin": "linkedin.com/in/goutamchandnani1",
+        "github": ""
+      },
+      "professional_summary": "Highly analytical and detail-oriented Master's student in Artificial Intelligence with a strong foundation in mathematical reasoning, generative AI, and AI model evaluation. Passionate about leveraging advanced AI models and problem-solving to enhance AI system performance and quality. Adept at applying concepts from mathematics and computer science to develop and refine intelligent solutions, with a proven ability to evaluate complex AI outputs and optimize system efficiency.",
+      "skills": {
+        "AI & Machine Learning": [
+          "Generative AI",
+          "Stable Diffusion",
+          "LoRA",
+          "LLMs",
+          "RAG (Retrieval-Augmented Generation)",
+          "AI Model Evaluation",
+          "Prompt Engineering"
+        ],
+        "Mathematics & Logical Reasoning": [
+          "Arithmetic",
+          "Algebra",
+          "Geometry",
+          "Calculus",
+          "Probability",
+          "Statistics",
+          "Inductive/Deductive Reasoning",
+          "Algorithmic Thinking"
+        ],
+        "Programming Languages": [
+          "Python",
+          "JavaScript",
+          "Java"
+        ],
+        "Data Science & Visualization": [
+          "Jupyter Notebook",
+          "Matplotlib",
+          "Seaborn",
+          "Power BI"
+        ],
+        "AI/ML Platforms & Models": [
+          "Google Gemini 1.5 Flash",
+          "Anthropic Claude 3.5 Sonnet"
+        ],
+        "Databases": [
+          "MongoDB",
+          "Supabase",
+          "PostgreSQL",
+          "MySQL"
+        ],
+        "Tools & Platforms": [
+          "VS Code",
+          "Git",
+          "GitHub",
+          "Figma",
+          "Canva"
+        ],
+        "Frameworks & Concepts": [
+          "Node.js",
+          "Express.js",
+          "React.js",
+          "Angular.js",
+          "SDLC",
+          "Agile",
+          "JWT Authentication",
+          "Version Control"
+        ]
+      },
+      "education": {
+        "degree": "Master of Science in Artificial Intelligence",
+        "university": "Aston University, Birmingham, UK",
+        "graduation": "Expected 2026",
+        "other_degrees": [
+          {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "university": "Vivekanand Education Society’s Institute of Technology, Mumbai, India",
+            "graduation": "2025",
+            "grade": "2:1 UK Equivalent, CGPA 7.45/10"
+          }
+        ]
+      },
+      "experience": [
+        {
+          "title": "Salesforce Administrator Intern",
+          "company": "Neevas",
+          "location": "Remote",
+          "date": "August 2023 - April 2024",
+          "description": "Salesforce administration and automation.",
+          "achievements": [
+            "Automated Salesforce workflows and validation rules, enhancing CRM data accuracy by 20% and system efficiency.",
+            "Designed and implemented travel management modules with intuitive dashboards, improving reporting and visibility for data-driven decisions.",
+            "Collaborated cross-functionally to translate complex business requirements into scalable and secure technical configurations."
+          ]
+        },
+        {
+          "title": "Technology Foundations Virtual Experience",
+          "company": "Accenture UK",
+          "location": "Virtual",
+          "date": "October 2025",
+          "description": "End-to-end Agile SDLC simulation.",
+          "achievements": [
+            "Executed an end-to-end Agile SDLC simulation, demonstrating proficiency in software development methodologies.",
+            "Debugged and optimised Python scripts, improving runtime efficiency by 30% through rigorous testing and algorithmic refinement.",
+            "Presented complex algorithmic solutions with clear flow diagrams, effectively communicating technical concepts to diverse audiences and improving solution clarity."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "DocuCare AI - AI-Powered Medical Document Management System",
+          "date": "October 2025",
+          "technologies": [
+            "Next.js 14",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "Supabase",
+            "Google Gemini 1.5 Flash",
+            "Anthropic Claude 3.5 Sonnet",
+            "Vector Embeddings"
+          ],
+          "description": "An advanced web application leveraging AI for intelligent medical document management, analysis, and interactive querying.",
+          "achievements": [
+            "Developed a server-side AI pipeline utilizing Google Gemini 1.5 Flash for advanced OCR and intelligent medical data extraction, demonstrating expertise in leveraging LLMs.",
+            "Implemented an intelligent Retrieval-Augmented Generation (RAG) chat system using vector embeddings to enable accurate and context-aware querying of health records.",
+            "Re-architected backend infrastructure to a 100% free-tier compatible stack using Supabase, demonstrating resourcefulness and efficient system design.",
+            "Built a robust frontend with Next.js 14 App Router, Server Actions, and secure route handlers, ensuring performant and secure data fetching for AI insights."
+          ]
+        },
+        {
+          "title": "FlowerGen | Text-to-Image Generation System",
+          "date": "April 2024",
+          "technologies": [
+            "Generative AI",
+            "Stable Diffusion",
+            "LoRA",
+            "Python"
+          ],
+          "description": "Developed a generative AI model for realistic text-to-image synthesis using advanced deep learning techniques.",
+          "achievements": [
+            "Built a cutting-edge generative AI model using Stable Diffusion and LoRA for high-fidelity text-to-image generation.",
+            "Optimised GPU training on RTX 3050, reducing memory usage by 25% and enhancing model training efficiency and resource management.",
+            "Integrated real-time data pipelines to facilitate interactive user experience and continuous model refinement."
+          ]
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Career Essentials in Generative AI",
+          "issuer": "Microsoft/LinkedIn"
+        },
+        {
+          "name": "OCI AI Foundations Associate",
+          "issuer": "Oracle"
+        },
+        {
+          "name": "Accenture Technology Foundations",
+          "issuer": "Forage"
+        }
+      ]
+    }
+  },
+  "generated_at": "2025-12-29T17:23:01.053309"
+}

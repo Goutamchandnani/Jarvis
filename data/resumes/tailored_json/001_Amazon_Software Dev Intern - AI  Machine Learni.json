@@ -1,0 +1,210 @@
+{
+  "job": {
+    "title": "Software Dev Intern - AI / Machine Learning",
+    "company": "Amazon",
+    "location": "London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/software-dev-intern-ai-machine-learning-at-amazon-4340789851",
+    "source": "LinkedIn",
+    "search_role": "AI Intern",
+    "priority": true,
+    "date_posted": "Recent",
+    "scraped_at": "2025-12-29T17:08:18.276220"
+  },
+  "job_description": "DescriptionDo you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.Our Software Development Engineer (SDE) interns use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDE interns solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.At Amazon, we believe in ownership at every level. As an SDE intern, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.Key job responsibilities Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward. Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment. Participate in code reviews and contribute to technical documentation. Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective. Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies. Write clean, maintainable code following best practices and design patterns. Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties. Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.A day in the lifeAs an intern, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical projects early in your career.The team requires an internship duration of 3 to 6 months.In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting.Basic Qualifications Must be 18 years of age or older Education Requirements (must meet one): o Currently enrolled in Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields [degrees can be updated based on regional variations] o Completed Bachelor's or Graduate degree in specified fields Demonstrated experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript Demonstrated experience one or more of the following: o Data structures implementation o Basic algorithm development o Object-oriented design principles Experience with AI/ML technologiesPreferred Qualifications Experience in GenAI and Agent service development using LLM/VLM. Previous technical internship(s) or demonstrated project experience Experience with one or more of the following: o AI tools for development productivity o Cloud platforms (preferably AWS) o Database systems (SQL and NoSQL) o Contributing to open-source projects o Version control systems o Debugging and troubleshooting complex systems Strong problem-solving and analytical skills Excellent written and verbal communication skills Demonstrated ability to learn and adapt to new technologies quickly Basic understanding of software development lifecycle (SDLC)Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.Company - Amazon Business EU SARL (UK) - H91Job ID: A3130532\n        \n\n\n        \n            Show more\n          \n\n          \n\n\n\n        \n            Show less",
+  "tailored_cv": {
+    "job_analysis": {
+      "match_score": 92,
+      "key_requirements": [
+        "AI/Machine Learning",
+        "Generative AI (GenAI), LLM/VLM",
+        "Scalable services and solutions",
+        "Distributed computing environment",
+        "Cloud-native architectures/microservices",
+        "Python, Java, TypeScript",
+        "Data structures, algorithms, OOD",
+        "Database systems (SQL/NoSQL)",
+        "Agile, SDLC, CI/CD",
+        "Problem-solving and analytical skills",
+        "Collaboration and communication",
+        "Ownership mindset",
+        "Quick learner and adaptable to new technologies"
+      ],
+      "selected_projects_reasoning": "Selected 'DocuCare AI' because it directly addresses Generative AI, LLM/VLM (Gemini, Claude), RAG systems, vector embeddings, and cloud-native backend development (Supabase), all highly relevant preferred qualifications. It also showcases modern frontend development with Next.js and TypeScript. 'FlowerGen' from the generic CV is retained for its strong demonstration of core Generative AI model building (Stable Diffusion, LoRA) and GPU optimization. 'Smart Student Job Agent Platform (Unihustle)' was chosen for its robust backend architecture, demonstrating experience with asynchronous distributed systems (Celery, Redis), data processing, algorithm development for matching, and database management (PostgreSQL, SQLAlchemy), aligning with requirements for scalable and fault-tolerant systems in a distributed environment using Python. The 'KanSync' project was deemed less relevant than these three as it primarily focuses on full-stack web development without a strong AI/ML component."
+    },
+    "tailored_cv": {
+      "personal_info": {
+        "name": "Goutam Chandnani",
+        "email": "gautamchandnani4u@gmail.com",
+        "phone": "+44 7344 329 717",
+        "location": "Birmingham, UK",
+        "linkedin": "linkedin.com/in/goutamchandnani1",
+        "github": ""
+      },
+      "professional_summary": "Aspiring AI/ML Engineer with a Master's in Artificial Intelligence, passionate about developing innovative, scalable, and cloud-native solutions. Proven ability to design and implement Generative AI models, intelligent data pipelines, and distributed systems using Python, Java, and TypeScript. Eager to leverage strong problem-solving skills, an ownership mindset, and a collaborative approach to build impactful AI/ML technologies that solve complex customer problems at Amazon, aligning with principles of operational excellence and continuous learning.",
+      "skills": {
+        "Programming Languages": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "AI/ML & GenAI": [
+          "Generative AI",
+          "LLMs (Google Gemini, Anthropic Claude)",
+          "Stable Diffusion",
+          "LoRA",
+          "Vector Embeddings",
+          "RAG Systems",
+          "Machine Learning",
+          "Data Analysis"
+        ],
+        "Frameworks & Libraries": [
+          "Next.js",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Flask",
+          "Socket.IO",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "Databases": [
+          "PostgreSQL",
+          "MongoDB",
+          "MySQL",
+          "Supabase",
+          "Redis"
+        ],
+        "Cloud & DevOps": [
+          "Cloud Platforms (AWS Concepts)",
+          "Distributed Systems",
+          "Celery",
+          "CI/CD",
+          "Version Control (Git & Github)"
+        ],
+        "Concepts & Tools": [
+          "SDLC",
+          "Agile",
+          "Object-Oriented Design",
+          "Data Structures & Algorithms",
+          "API Design",
+          "VS Code",
+          "Jupyter Notebook"
+        ]
+      },
+      "education": {
+        "degree": "Master of Science in Artificial Intelligence",
+        "university": "Aston University, Birmingham, UK",
+        "graduation": "Expected 2026",
+        "other_degrees": [
+          {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "university": "Vivekanand Education Society’s Institute of Technology, Mumbai, India",
+            "graduation": "2025",
+            "grade": "2:1 UK Equivalent, CGPA 7.45/10"
+          }
+        ]
+      },
+      "experience": [
+        {
+          "title": "Salesforce Administrator Intern",
+          "company": "Neevas",
+          "location": "Remote",
+          "date": "August 2023 - April 2024",
+          "description": "Implemented and managed Salesforce solutions to enhance business operations and data accuracy.",
+          "achievements": [
+            "Automated complex Salesforce workflows and validation rules, significantly improving CRM accuracy by 20% and streamlining operational processes.",
+            "Designed and implemented travel management modules with dynamic dashboards, providing enhanced reporting and visibility for stakeholders.",
+            "Collaborated cross-functionally to translate intricate business requirements into scalable and maintainable Salesforce configurations."
+          ]
+        },
+        {
+          "title": "Technology Foundations Virtual Experience",
+          "company": "Accenture UK",
+          "location": "Virtual",
+          "date": "October 2025",
+          "description": "Participated in an end-to-end Agile SDLC simulation focusing on core software development practices.",
+          "achievements": [
+            "Completed an end-to-end Agile SDLC simulation, gaining practical experience with DevOps and automation tools in a distributed team environment.",
+            "Debugged and optimised Python scripts, enhancing runtime efficiency by 30% through algorithmic improvements and refactoring.",
+            "Presented complex algorithmic solutions using flow diagrams, effectively improving technical communication within the simulated project team."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "DocuCare AI - AI-Powered Medical Document Management System",
+          "date": "Ongoing",
+          "technologies": [
+            "Next.js 14",
+            "React",
+            "TypeScript",
+            "Tailwind CSS",
+            "Supabase",
+            "Google Gemini 1.5 Flash",
+            "Anthropic Claude 3.5 Sonnet",
+            "Vector Embeddings"
+          ],
+          "description": "An AI-powered web application for intelligent medical document management and analysis.",
+          "achievements": [
+            "Developed a server-side AI pipeline leveraging Google Gemini 1.5 Flash for advanced OCR and precise medical data extraction from diverse documents.",
+            "Implemented an intelligent RAG (Retrieval-Augmented Generation) chat system using vector embeddings to facilitate accurate, contextual querying of health records.",
+            "Re-architected the backend infrastructure to a 100% free-tier compatible Supabase stack, ensuring a scalable and cost-effective cloud-native solution.",
+            "Built a robust and secure frontend with Next.js 14 App Router and Server Actions, optimizing data fetching and user interaction."
+          ]
+        },
+        {
+          "title": "Smart Student Job Agent Platform (Unihustle)",
+          "date": "Ongoing",
+          "technologies": [
+            "React 19",
+            "Python",
+            "Flask",
+            "PostgreSQL",
+            "Celery",
+            "Redis",
+            "SQLAlchemy"
+          ],
+          "description": "A comprehensive job aggregation and matching platform for students, automating local search based on availability and skills.",
+          "achievements": [
+            "Architected a specific matching engine utilizing weighted vectors to accurately pair students with job opportunities based on location, schedule, and skill alignment.",
+            "Engineered asynchronous background worker pipelines with Celery and Redis, enabling efficient scraping of external job boards without impacting real-time user performance.",
+            "Designed a normalized PostgreSQL schema with SQLAlchemy ORM, facilitating complex relationship modeling for student profiles, job postings, and matching data.",
+            "Developed a high-performance reactive frontend using React 19, integrating seamlessly with the Python/Flask backend to provide a responsive user experience."
+          ]
+        },
+        {
+          "title": "FlowerGen | Text-to-Image Generation System",
+          "date": "April 2024",
+          "technologies": [
+            "Generative AI",
+            "Stable Diffusion",
+            "LoRA",
+            "Python"
+          ],
+          "description": "Built a generative AI model for realistic text-to-image synthesis.",
+          "achievements": [
+            "Developed a generative AI model leveraging Stable Diffusion and LoRA fine-tuning for high-fidelity text-to-image generation.",
+            "Optimised GPU training on an RTX 3050, successfully reducing memory usage by 25% and accelerating model iteration cycles.",
+            "Integrated real-time data pipelines to enhance interactive user experience and facilitate dynamic content generation."
+          ]
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Career Essentials in Generative AI",
+          "issuer": "Microsoft/LinkedIn"
+        },
+        {
+          "name": "OCI AI Foundations Associate",
+          "issuer": "Oracle"
+        },
+        {
+          "name": "Accenture Technology Foundations",
+          "issuer": "Forage"
+        }
+      ]
+    }
+  },
+  "generated_at": "2025-12-29T17:08:53.559150"
+}
