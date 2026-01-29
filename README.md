@@ -76,6 +76,4 @@ python main.py
 └── main.py                       # Entry point
 ```
 
-## 🛡️ License
 
-MIT
